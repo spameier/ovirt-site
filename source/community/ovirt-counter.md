@@ -17,7 +17,8 @@ If you want your oVirt deployment listed here you can edit this page following t
 | air-test.abes.fr                                                   | 4.4.9         | 1            | 1        |  3      |  60    |
 | air-dev.abes.fr                                                    | 4.4.9         | 1            | 1        |  3      |  49    |
 | infra.abes.fr                                                      | 4.4.9         | 2            | 2        |  4      |  14    |
+| Radio Bern RaBe                                                    | 4.2           | 1            | 1        |  3      |  33    |
 |--------------------------------------------------------------------|---------------|--------------|----------|---------|--------|
-| **Totals**                                                         | -             | 7            | 7        | 21      | 268    |
+| **Totals**                                                         | -             | 8            | 8        | 24      | 301    |
 {: .bordered}
 
